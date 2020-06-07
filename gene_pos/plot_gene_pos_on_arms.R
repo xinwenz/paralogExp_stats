@@ -7,7 +7,7 @@ library(reshape2)
 library(grid)
 library(gridBase)
 
-library(ggpubr)
+#library(ggpubr)
 
 setwd("~/cloud/para/gene_pos")
 twoL <- read.table('2L.txt', header=T)
